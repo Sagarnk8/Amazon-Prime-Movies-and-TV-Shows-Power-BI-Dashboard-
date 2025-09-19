@@ -2,7 +2,6 @@
 
 Create a stunning Power BI dashboard in minutes, visualizing and analyzing the Amazon Prime video catalog.
 
-[Demo video](https://youtu.be/_xs8XXlGQVM?si=zQ6dCoXyILxuD8Nk)
 
 ---
 

@@ -28,15 +28,6 @@ This project demonstrates how to build an interactive Power BI dashboard analyzi
 - **Horizontal Bar Chart**: Shows by rating and by genre
 - **Branding**: Amazon Prime Video custom colors and logo
 
----
-
-## 🚀 How to Use
-
-1. Download the dataset from Kaggle or GitHub.
-2. Open Power BI Desktop and import the CSV file.
-3. Follow the [demo video](https://youtu.be/_xs8XXlGQVM?si=zQ6dCoXyILxuD8Nk) to build each visual step by step.
-4. Import the [Prime Video logo](https://github.com/DataScienceRoadMapDSRM/Tableau-Dashboards-info/blob/main/Prime%20video%20logo.png) for branding.
-5. Customize, explore the report, and gain insights!
 
 ---
 
@@ -54,12 +45,4 @@ This project demonstrates how to build an interactive Power BI dashboard analyzi
 - Learn Power Query, data modeling, and DAX basics
 - Use advanced formatting and branding for business-style reports
 
----
 
-## 🎥 Reference
-
-[Create an Amazing Power BI Dashboard in 19 minutes | Amazon Prime Movies and TV Shows](https://youtu.be/_xs8XXlGQVM?si=zQ6dCoXyILxuD8Nk)
-
----
-
-*Fork, star, and try customizing the dashboard for other streaming platforms or datasets!*
